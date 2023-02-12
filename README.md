@@ -1,2 +1,2 @@
 # olá, mundo!
- Primeira repositorio curso Origamid
+ Primeiro repositório do curso Origamid.
